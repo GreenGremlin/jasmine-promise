@@ -1,0 +1,27 @@
+{
+    "name": "jasmine-promise",
+    "version": "0.0.1",
+    "description": "Transparently support Promises",
+    "contributors": [
+        {
+            "name": "Philippe Leblond",
+            "email": "philippe.leblond@cbd.int"
+        },
+        {
+            "name": "Stephane Bilodeau",
+            "email": "stephane.bilodeau@cbd.int"
+        }
+    ],
+    "homepage": "https://github.com/scbd/jasmine-promise",
+    "keywords": [
+        "jasmine",
+        "promise",
+        "async"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:scbd/jasmine-promise.git"
+    },
+    "main": "index.js",
+    "license": "MIT"
+}
